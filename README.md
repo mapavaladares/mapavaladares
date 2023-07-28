@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **HTML/CSS/REACT/NODE/SQL/GIT.**
+  💼 Ferramentas: **HTML/CSS/REACT/NODE/SQL/GIT.**<br>
     💼  Métodologias Ágeis 
 </p>
 
